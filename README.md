@@ -3,7 +3,7 @@
 ### Experienced **React**, **Next.js**, **TypeScript**, **Tailwind CSS**. 
 📍 İstanbul/Türkiye.
 
-## About 
+## About 👤
 
 Hello! I’m **Mert**, a Computer Engineering graduate from **Kütahya Dumlupınar University** 🎓 I build web UIs and have been working in frontend for **4+ years** 🚀
 
