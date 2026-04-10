@@ -13,8 +13,6 @@ I care about accessible interfaces 🎨, clear layout and typography, sensible p
 
 Hackathons are still fun 🏆 — recent results include **1st** at **Apsiyon**’s proptech hackathon, **2nd** nationally at a **TEKNOFEST** × **Turkish Airlines** ideathon, and **3rd** at **Gürok Group** & **Destek Patent**’s patent-focused event ✨
 
-If you want to talk frontend, products, or just compare notes, you’ll find me under **[Connect](#connect)** 💬 — no formal excuse needed.
-
 ---
 
 ## Experience 💻 
